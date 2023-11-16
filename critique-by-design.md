@@ -57,6 +57,7 @@ Based on my reactions and evaluations of the original chart and the feedback fro
 </script>
 
 
+
 **Developing Process**
 First, a bar chart with protein sources as the row and sum of the cost per 20 g protein as the column has been built in which column and row titles are hidden and an average value line has been added to the chart. Then, a sorter based on the price range is set up in order to be used in the later dashboard as a way to change the descending and ascending sorting of the items. Then the parameters: vegan and vegetarian are produced in separate tabs using filtering functions. Next, a blank 900*600 dashboard is created with a vertical container and a title text box. The title is entered into the box and formatting (including font size, color, and inner and outer padding are adjusted). A horizontal container has been added to the dashboard and the bar chart has been dragged in. All controllers and filters are also dragged into the lefthand side of the dashboard and formatted. Lastly, the general format of the chart and the two colors (blue and grey) are added to the dashboard and the data source information has been added in the bottom left. 
 
