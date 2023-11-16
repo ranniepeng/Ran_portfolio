@@ -4,7 +4,7 @@
 ### Part 1: Selected visualization and links
 Title: [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
 [Chart Link](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)
-![How Much Does 30g Protein Cost?]
+![How Much Does 30g Protein Cost?](original-chart.jpg)
 
 ### Part 2: Critique and Evaluation Summary
 In general, I like the type of chart the visualization used for illustration, the bar chart is really easy for the audience to understand the approximate price patterns of the selected 10 protein sources. Also, the x and y-axis labels and the visualization title can help viewers grasp the main takeaway from this visualization. I think it is very helpful to sort the protein source from the most expansive one to the least expansive which enables viewers to see and understand the trend easily. 
