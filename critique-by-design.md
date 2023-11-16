@@ -33,7 +33,7 @@ I love the idea of using the photo icons of each protein source with the conside
 - Suggested using different colors to illustrate the difference between Egg and other protein source
 - Wanted to know the actual price difference.
 
-![Sketch After Interview]()
+![Sketch After Interview](after.jpg)
 
 ### Part 5 New solution Build: 
 Based on my reactions and evaluations of the original chart and the feedback from interviewees. I would like to redesign a new chart to emphasize the key information and remove the irrelevant and distractive items from the chart to help viewers better understand the concept. Andy Kriebel's tutorial provides a more efficient solution to represent the data in a more interactive dashboard way, so I decided to follow the tutorial and build one dashboard like that. 
