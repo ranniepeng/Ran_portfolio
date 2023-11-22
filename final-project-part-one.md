@@ -37,7 +37,6 @@ Here is an example of the collection accession of Egyptian artworks and items, w
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
 ## Main DATA used
 The main dataset used for this project will be a CSV file that contains over 400,000 rows of MET's collection entries, which is converted by the txt file that I downloaded from [the MET's GitHub Art Collection API](https://metmuseum.github.io/). Such a dataset contains the collection items record starting from 1880 to 2020, with the last updated on November 17, 2020. It has very detailed multi-column records of the accession years, culture, credit line, country, city, artists' information, medium, etc. Due to the volume and extensive information recorded in this dataset, I might focus on some particular period (likely on more recent periods) rather than all the MET's collection from 1880 to 2020. Nevertheless, I will still use a sufficient amount of data to provide a more comprehensive analysis and trends.
 ## Other Data Sources (might be used for comparison):
@@ -46,6 +45,3 @@ In order to comprehensively evaluate how The MET effectively serves its intended
 Although the main dataset I will be using contains lots of collected item information, it does not provide further info on whether the item is on view or not, which can be a potential caveat in this project's analysis. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
