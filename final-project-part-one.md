@@ -21,7 +21,9 @@ The above is a general story arc that illustrates my expectation of the overall 
 
 ## Initial sketches
 > 1. Culture Representation Pie Chart breakdowns of the MET's Collection overtime
-![in sketch 1]()
+![ini sketch1](ini_sketch1.png)
+> 2. The MET 19 Departments Collection Volume Breakdown
+![ini_sketch2](ini_sketch2.png)
 
 
 # The data
