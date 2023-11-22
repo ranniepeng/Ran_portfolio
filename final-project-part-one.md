@@ -11,19 +11,18 @@ According to The [MET's mission statement](https://www.metmuseum.org/about-the-m
 
 In terms of the general achievement and overall goal of this project, I am aiming for a better understanding on the MET's collection's accession and the cultures that are connected with the artworks in its collection. This project and the visualization analyses can be used as an illustration and showcase of a large museum institution's collection considerations and help the audience to better understand the (potential) collections accession trend of the MET more explicitly and quantitatively.
 
-##
+### Story Arc of the project and visualizations:
+![Story Arc](stor_arc.jpeg) 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 -
-> you should describe what you hope to achieve.
-> Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.
-> You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The above is a general story arc that illustrates my expectation of the overall delivery of the project's visualization to the audience. First, I would like to start with an interesting hook (such as to resonate with the audience about how a museum's collection can be huge and my experience with the MET can I always cannot go through all the sections I would like to see). Then, I would start to transit and explain my incentive for this project and give the background information of the MET and its mission statement to the audience, which can be interesting to some of the audience but not all of them, thus I anticipant the overall engagement will decrease a bit. After explaining the main topics and questions, I will provide the first part of the visuals related to the general categories and medium breakdowns of the collections and move to the comparison between its collection distribution with its annual audience profile ratio breakdowns as the second part of the visualizations. After all, I will do a summary and have a call to action to the audience (and hopefully) in an engaging way to attract their attention.
 
-Text here...
+### One Sentence Summary:
+**"Do Museums really have what we want to see?"**
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> 1. Culture Representation Pie Chart breakdowns of the MET's Collection overtime
+![in sketch 1]()
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
