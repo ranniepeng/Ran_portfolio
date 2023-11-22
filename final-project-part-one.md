@@ -29,19 +29,21 @@ According to the report of [The MET's annual visitor](https://www.metmuseum.org/
 > 3. The MET 19 Departments Collection Volume Breakdown
 ![ini_sketch2](ini_sketch2.png)
 
-As illustrated in the above sections, I would like to know which department holds more collections in general, and here are two visuals to deliver that information. Such breakdown will also be helpful for me and the audience to understand the formation o
+As illustrated in the above sections, I would like to know which department holds more collections in general, and here are two visuals to deliver that information. Such a breakdown will also be helpful for me and the audience to understand the formation of The MET's collection in a more concrete way. 
 
-> 5. Numbers of Accession Items per Year (1880 to 2022)
+> 5. Numbers of Accession Items per Year (1880 to 2020)
 ![ini_sketch3](ini_sketch3.png)
 Here is an example of the collection accession of Egyptian artworks and items, which will be used to analyze if there is a trend in a certain period that the MET accessed lots of Egyptian artworks. By further tracking the credit line of the items in such a period, we can also understand how items are accessed by the MET and for how long they stay in MET's collection. Similarly, by plotting such a line chart, I can also analyze the recent (yearly) increases in its collection and evaluate whether or not the museum has been updating and adjusting its collection to better serve the public in recent years. 
 
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
-Main DATA used
-Other Data Sources:
-Limitations
-
+## Main DATA used
+The main dataset used for this project will be a CSV file that contains over 400,000 rows of MET's collection entries, which is converted by the txt file that I downloaded from [the MET's GitHub Art Collection API](https://metmuseum.github.io/). Such a dataset contains the collection items record starting from 1880 to 2020, with the last updated on November 17, 2020. It has very detailed multi-column records of the accession years, culture, credit line, country, city, artists' information, medium, etc. Due to the volume and extensive information recorded in this dataset, I might focus on some particular period (likely on more recent periods) rather than all the MET's collection from 1880 to 2020. Nevertheless, I will still use a sufficient amount of data to provide a more comprehensive analysis and trends.
+## Other Data Sources (might be used for comparison):
+In order to comprehensively evaluate how The MET effectively serves its intended audience, I would employ various sources of data, including the US census data detailing the demographic breakdown of New York City, and I would cross-reference this information with the general visitor demographic data provided on The MET's website. This multi-faceted approach aims to offer a nuanced understanding of the museum's audience composition by considering both broader societal demographics and the specific characteristics of those engaging with the institution as reflected in its online records.
+## Data Limitations
+Although the main dataset I will be using contains lots of collected item information, it does not provide further info on whether the item is on view or not, which can be a potential caveat in this project's analysis. 
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
