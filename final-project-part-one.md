@@ -33,6 +33,7 @@ As illustrated in the above sections, I would like to know which department hold
 
 > 5. Numbers of Accession Items per Year (1880 to 2020)
 ![ini_sketch3](ini_sketch3.png)
+
 Here is an example of the collection accession of Egyptian artworks and items, which will be used to analyze if there is a trend in a certain period that the MET accessed lots of Egyptian artworks. By further tracking the credit line of the items in such a period, we can also understand how items are accessed by the MET and for how long they stay in MET's collection. Similarly, by plotting such a line chart, I can also analyze the recent (yearly) increases in its collection and evaluate whether or not the museum has been updating and adjusting its collection to better serve the public in recent years. 
 
 
