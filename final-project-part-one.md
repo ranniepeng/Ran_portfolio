@@ -22,22 +22,26 @@ The above is a general story arc that illustrates my expectation of the overall 
 ## Initial sketches
 > 1. Culture Representation Pie Chart breakdowns of the MET's Collection overtime
 ![ini sketch1](ini_sketch1.png)
-> 2. The MET 19 Departments Collection Volume Breakdown
+
+This sketch is here to represent the general culture breakdown of the MET's current collection, which will be used to compare with its annual visitors' demographics info and to understand if there is a balance between its most represented culture and the actual international and domestic visitors.
+According to the report of [The MET's annual visitor](https://www.metmuseum.org/press/news/2019/fy-2019-attendance#:~:text=In%20the%20fiscal%20year%20that%20ended%20on%20June%2030%2C%202019,from%20New%20York's%20tristate%20area.) stats on its website, during "the fiscal year that ended on June 30, 2019, international tourists accounted for 28% of the Museum's visitors. Local visitors from the five boroughs of New York City made up 35% of the overall total, and 16% were from New York's tristate area". The MET genuinely holds culture-diverse collections to provide to both international and domestic audiences.
+
+> 3. The MET 19 Departments Collection Volume Breakdown
 ![ini_sketch2](ini_sketch2.png)
+
+As illustrated in the above sections, I would like to know which department holds more collections in general, and here are two visuals to deliver that information. Such breakdown will also be helpful for me and the audience to understand the formation o
+
+> 5. Numbers of Accession Items per Year (1880 to 2022)
+![ini_sketch3](ini_sketch3.png)
+Here is an example of the collection accession of Egyptian artworks and items, which will be used to analyze if there is a trend in a certain period that the MET accessed lots of Egyptian artworks. By further tracking the credit line of the items in such a period, we can also understand how items are accessed by the MET and for how long they stay in MET's collection. Similarly, by plotting such a line chart, I can also analyze the recent (yearly) increases in its collection and evaluate whether or not the museum has been updating and adjusting its collection to better serve the public in recent years. 
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
+Main DATA used
+Other Data Sources:
+Limitations
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
