@@ -1,6 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+The overall flow of the storytelling will be like this:
+### 1. Hook (My personal connection and curiosity on the topic)
+I have been to MET several times, but never got the chance to explore the entire museum (in each visit). I also have the impression that it has "countless" items in its collection that are waiting to be exhibited. Therefore I am curious about how many they actually held and what are the major cultures that are represented in the Museum. 
+### 2. Introduction 
+I will start with some Facts about MET, to help the audience understand why I chose this museum in particular and why it is interesting to look at its collection:
+o	The largest art museum in the Americas
+o	In 2022, 3208832 visitors visited the MET
+o	The third most visited museum in the USA
+> The BIG-number visuals will be presented here:
+! []()
+
+Then I will quote the mission statement of the MET: "The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures to connect all people to creativity, knowledge, ideas, and one another." and explain the relationship and the reason why mission alignment of the collection is important (main aspects being Audience Engagement, Educational Value, Relevance to Society, and Long-Term Sustainability). Also, I will introduce the 19 department categories listed on the MET's website.
+
+Next, I will ask the audience to think of the percentage breakdowns of the artworks in each department and show the "intuitively department breakdowns" treemap to the audience to mimic how we might think about the breakdown from its website.
+![]()
+
+After that, I will show the actual breakdown of the treemap, with the dark blue color on the "Drawing and Prints" department to represent it outweighed by any other categories.
+![]()
+
+With an emphasis on the massive collections of drawings and prints, I will present the bar chart from the New York Times articles and elaborate more on the overly collected prints and drawings in MET compared with other museums in the USA. 
+
+
 
 
 
@@ -38,7 +60,7 @@ In order to engage with the general public, I will provide sufficient background
 |5.	Is there anything you would like me to explain more| For the accession year of the top five departments, I would like to see all of the trends rather than only the trends of Greek art. Maybe more visual and content emphasis on that? Also, if possible, I would like the order of the overall storytelling to be changed a bit, which the second part seems to be a jump between the first and the third section, maybe reorder them into 1-3-2? I do feel that the second part is a bit off the topic that you might want to rethink on how to integrate it better into the overall storytelling.|Nope, I think you provided enough info for me to understand the topic.|As I just mentioned about the pie chart, you might want to explain more about why you would like to include that information in the whole story and include a more obvious takeaway from that visualization.|
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+> The changes I plan on implementing next week to address the issues identified.  
 
 Text here!
 
