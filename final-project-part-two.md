@@ -25,19 +25,19 @@ In order to engage with the general public, I will provide sufficient background
 |Knowing from the interviewee's perspective to examine if the storytelling that I presented targets the correct audience group|4. Who do you think should be the intended audience?|
 |Double-check with the interviewees about the overall flow of the storytelling|5.	Is there anything you would like me to explain more?|
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+> Detail findings from interviews.  
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Student, early 20s, art history background) | Interview 2 (Student, early 20s, non art background) | Interview 3 (Manager, mid 40s, some art background)|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+|1.	Are you interested in the topic that I discussed? (Before the story and after the story)|Yes, as an art student, before the story I am interested in the topic and also curious about how many artworks are there in the MET. After the story, I still wanted to know more and dive deeper into collection management and wondering how art managers think about the issues you are talking about.|             |Before the story, I didn't really think too much about the issues in collection management in such a detailed manner. I am interested in the topic after the story.|
+|2.	Did I provide sufficient info for you to understand the background of this story?| Yes, I appreciate how you explain the overall mission of the MET and the important connection between its collection and the mission.| As someone from a non-art background, the information you provided is very helpful, so yes.| Yes. I didn't know such info before the talk, so it is really useful for me to understand the context and why this topic interest you. It also helps me to create a general framework on the topic.|
+|3. Do you find the visualization helpful for you to understand my story?|                                |             |             |
+|4. Who do you think should be the intended audience?|                                |             |             |
+|5.	Is there anything you would like me to explain more|                                |             |             |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -54,10 +54,5 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
