@@ -18,8 +18,12 @@ Then I will quote the mission statement of the MET: "The Metropolitan Museum of 
 Next, I will ask the audience to think of the percentage breakdowns of the artworks in each department and show the "intuitively department breakdowns" treemap to the audience to mimic how we might think about the breakdown from its website.
 ![part2_2](part2_2.png)
 
-After that, I will show the actual breakdown of the treemap, with the dark blue color on the "Drawing and Prints" department to represent it outweighed by any other categories.
+After that, I will show the actual breakdown of the treemap and a stacked bar chart, with the dark blue color on the "Drawing and Prints" department to represent it outweighed by any other categories.
+>Treemap
 ![part2_3](part2_3.png)
+
+>Stacked Bar Chart
+![part2_7](part2_7.png)
 
 With an emphasis on the massive collections of drawings and prints, I will present the bar charts from the New York Times articles and elaborate more on the overly collected prints and drawings in MET compared with other museums in the USA. 
 * Note: the charts below are from the New York Times, which I do not have access to data.
