@@ -16,18 +16,18 @@ I will start with some Facts about MET, to help the audience understand why I ch
 Then I will quote the mission statement of the MET: "The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures to connect all people to creativity, knowledge, ideas, and one another." and explain the relationship and the reason why mission alignment of the collection is important (main aspects being Audience Engagement, Educational Value, Relevance to Society, and Long-Term Sustainability). Also, I will introduce the 19 department categories listed on the MET's website.
 
 Next, I will ask the audience to think of the percentage breakdowns of the artworks in each department and show the "intuitively department breakdowns" treemap to the audience to mimic how we might think about the breakdown from its website.
-![part2_2]()
+![part2_2](part2_2.png)
 
 After that, I will show the actual breakdown of the treemap, with the dark blue color on the "Drawing and Prints" department to represent it outweighed by any other categories.
-![part2_3]()
+![part2_3](part2_3.png)
 
 With an emphasis on the massive collections of drawings and prints, I will present the bar charts from the New York Times articles and elaborate more on the overly collected prints and drawings in MET compared with other museums in the USA. 
 * Note: the charts below are from the New York Times, which I do not have access to data.
 > New York Times, Charts Created By Alicia DeSantis | Numbers are self-reported by individual institutions.
-![part2_4]()
-![part2_5]()
+![part2_4](part2_4.png)
+![part2_5](part2_5.png)
 In addition, I would also like to highlight the top five cultures that MET's collection represented and the difference between such cultural representations and its annual visitors.
-![part2_6]()
+![part2_6](part2_6.png)
 
 > 2019 Annual Visitors Demographics Reported on the Website:
 | Visitors Demographics|Percentage |
