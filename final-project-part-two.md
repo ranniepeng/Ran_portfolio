@@ -36,8 +36,8 @@ In addition, I would also like to highlight the top five cultures that MET's col
 |------------|--------|
 |New York Local visitors|35%|
 |International visitors|28%|
-|New York's tristate area Visitors|16%|
 |Other US Domestic Visitors|21%|
+|New York's tristate area Visitors|16%|
 
 Lastly, I will explain the yearly accession breakdown of the TOP FIVE Cultures and highlight the unusual increase in Greek Art in 2011.
 
