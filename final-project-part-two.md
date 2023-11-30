@@ -13,6 +13,7 @@ I will start with some Facts about MET, to help the audience understand why I ch
 > The BIG-number visuals will be presented here:
 ![part2_1](part2_1.png)
 
+### 3. Main Visualization Explanations
 Then I will quote the mission statement of the MET: "The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures to connect all people to creativity, knowledge, ideas, and one another." and explain the relationship and the reason why mission alignment of the collection is important (main aspects being Audience Engagement, Educational Value, Relevance to Society, and Long-Term Sustainability). Also, I will introduce the 19 department categories listed on the MET's website.
 
 Next, I will ask the audience to think of the percentage breakdowns of the artworks in each department and show the "intuitively department breakdowns" treemap to the audience to mimic how we might think about the breakdown from its website.
@@ -58,9 +59,12 @@ Lastly, I will explain the yearly accession breakdown of the TOP FIVE Cultures a
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+### Call to Action
+(Although this is still subject to change,) 
+In essence, a profound awareness of the multifaceted considerations surrounding the storage and display of artworks is not only crucial for art managers but equally important for the general public. Delving into the intricacies of this matter unveils the potential costs associated with preserving art treasures and the significant opportunity costs incurred by keeping them away from public view. These costs extend beyond the financial aspects, encompassing the loss of cultural enrichment, educational value, and community engagement that art can offer. Now, more than ever, it is imperative for all stakeholders, from art enthusiasts to institutional leaders, to recognize the profound impact of their choices on the broader cultural landscape. 
+
 # User research 
 ## Target audience
-
 In general, I would like to target not only anyone interested in art and museum collection developments but also more internal industry-related art/collection managers in this story. For the general public who are interested in art, I would like to provide them with more data and visualization to help them have a concrete idea of a museum's collection and the artworks it holds. For art managers, I hope such storytelling can provide them with a more quantitative approach to understanding and deciding the museum's collection. 
 
 In order to engage with the general public, I will provide sufficient background information and explain the linkage between the museum's mission and its collection to let them know the importance of understanding and the reasons I would like to do this analysis. To engage with the art managers, I would interact more with them in the later sections and call to action, as they are the people who are really making decisions about collection management and how to present better cultures and artwork to the museum's visitors. 
