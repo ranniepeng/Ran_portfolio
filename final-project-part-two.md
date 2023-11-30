@@ -1,12 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing/storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of the story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+
+
 
 # User research 
-
 ## Target audience
 
 In general, I would like to target not only anyone interested in art and museum collection developments but also more internal industry-related art/collection managers in this story. For the general public who are interested in art, I would like to provide them with more data and visualization to help them have a concrete idea of a museum's collection and the artworks it holds. For art managers, I hope such storytelling can provide them with a more quantitative approach to understanding and deciding the museum's collection. 
@@ -45,11 +44,9 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The overall story and background info are easy to follow, but the order of the topic's breakdown needs to be rethought and integrated better.| I would likely follow the suggestion of the interviewees on the order of the story, connect the first and third sections first, and rethink if it is necessary to have the second section (top five cultures breakdown) in the presentation. |
+| Clearer presentation on all top five departments' accession year trends.|I will consider putting all of them into a dashboard or include all the charts on a single page to represent better trends on the top five departments to the audiences.|
+| Unclear labelings of the pie chart | I will explore and try in Tableau to add the data labels and percentage breakdowns on the pie chart.|
 
 > ...include any final thoughts you have here. 
 
