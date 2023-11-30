@@ -27,15 +27,14 @@ In order to engage with the general public, I will provide sufficient background
 
 
 ## Interview findings
-> Detail findings from interviews.  
+> Detail findings from interviews, the general descriptions of interviewees are included in the parentheses 
 
-Text here!
 
 | Questions               | Interview 1 (Student, early 20s, art history background) | Interview 2 (Student, early 20s, non art background) | Interview 3 (Manager, mid 40s, some art background)|
-|-------------------------|--------------------------------|-------------|-------------|
+|-------------------------|---------------------|---------------------|---------------------|
 |1.	Are you interested in the topic that I discussed? (Before the story and after the story)|Yes, as an art student, before the story I am interested in the topic and also curious about how many artworks are there in the MET. After the story, I still wanted to know more and dive deeper into collection management and wondering how art managers think about the issues you are talking about.|             |Before the story, I didn't really think too much about the issues in collection management in such a detailed manner. I am interested in the topic after the story.|
 |2.	Did I provide sufficient info for you to understand the background of this story?| Yes, I appreciate how you explain the overall mission of the MET and the important connection between its collection and the mission.| As someone from a non-art background, the information you provided is very helpful, so yes.| Yes. I didn't know such info before the talk, so it is really useful for me to understand the context and why this topic interest you. It also helps me to create a general framework on the topic.|
-|3. Do you find the visualization helpful for you to understand my story?|                                |             |             |
+|3. Do you find the visualization helpful for you to understand my story?|Overall, yes. I love how you started with a large number of facts about the MET to explain why you chose this particular museum also the changes between the "intuitive thinking" and the actual breakdown per development are interesting to see. I also like the comparison between the MET and other museums, which helps me to understand why it can be a little more concerning in its collection management. The pie chart is less clear compared to the other ones. You can try to include the percentage of each color in the chart. I am a little confused whether Asian or Greek Art has a higher % in the total collection. |             |Yes, the area chart and the bar chart are easy to understand and I can grasp the key info, which is that the MET holds way more drawings and prints in its collection than other departments. The pie chart and the explanation on the culture emphasis, however, to me is a bit off the topic that it seems to be a separate question that you want to discuss but don't have time to do so.|
 |4. Who do you think should be the intended audience?|                                |             |             |
 |5.	Is there anything you would like me to explain more|                                |             |             |
 
