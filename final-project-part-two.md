@@ -19,6 +19,7 @@ Next, I will ask the audience to think of the percentage breakdowns of the artwo
 ![part2_2](part2_2.png)
 
 After that, I will show the actual breakdown of the treemap and a stacked bar chart, with the dark blue color on the "Drawing and Prints" department to represent it outweighed by any other categories.
+
 >Treemap
 ![part2_3](part2_3.png)
 
@@ -28,7 +29,10 @@ After that, I will show the actual breakdown of the treemap and a stacked bar ch
 With an emphasis on the massive collections of drawings and prints, I will present the bar charts from the New York Times articles and elaborate more on the overly collected prints and drawings in MET compared with other museums in the USA. 
 * Note: the charts below are from the New York Times, which I do not have access to data.
 > New York Times, Charts Created By Alicia DeSantis | Numbers are self-reported by individual institutions.
+> Percent of Museums' Collection not On Paper VS. On Paper
 ![part2_4](part2_4.png)
+
+> Major museums are only able to display a small portion of their collection.
 ![part2_5](part2_5.png)
 
 In addition, I would also like to highlight the top five cultures that MET's collection represented and the difference between such cultural representations and its annual visitors.
