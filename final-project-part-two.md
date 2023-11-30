@@ -6,9 +6,9 @@ The overall flow of the storytelling will be like this:
 I have been to MET several times, but never got the chance to explore the entire museum (in each visit). I also have the impression that it has "countless" items in its collection that are waiting to be exhibited. Therefore I am curious about how many they actually held and what are the major cultures that are represented in the Museum. 
 ### 2. Introduction 
 I will start with some Facts about MET, to help the audience understand why I chose this museum in particular and why it is interesting to look at its collection:
-- The largest art museum in the Americas
+- It is largest art museum in the Americas
+- It is the third most visited museum in the USA
 - In 2022, 3208832 visitors visited the MET
-- The third most visited museum in the USA
 
 > The BIG-number visuals will be presented here:
 ![part2_1](part2_1.png)
