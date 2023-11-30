@@ -6,7 +6,7 @@ The overall flow of the storytelling will be like this:
 I have been to MET several times, but never got the chance to explore the entire museum (in each visit). I also have the impression that it has "countless" items in its collection that are waiting to be exhibited. Therefore I am curious about how many they actually held and what are the major cultures that are represented in the Museum. 
 ### 2. Introduction 
 I will start with some Facts about MET, to help the audience understand why I chose this museum in particular and why it is interesting to look at its collection:
-- It is largest art museum in the Americas
+- It is the largest art museum in the Americas
 - It is the third most visited museum in the USA
 - In 2022, 3208832 visitors visited the MET
 
@@ -16,15 +16,28 @@ I will start with some Facts about MET, to help the audience understand why I ch
 Then I will quote the mission statement of the MET: "The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures to connect all people to creativity, knowledge, ideas, and one another." and explain the relationship and the reason why mission alignment of the collection is important (main aspects being Audience Engagement, Educational Value, Relevance to Society, and Long-Term Sustainability). Also, I will introduce the 19 department categories listed on the MET's website.
 
 Next, I will ask the audience to think of the percentage breakdowns of the artworks in each department and show the "intuitively department breakdowns" treemap to the audience to mimic how we might think about the breakdown from its website.
-![]()
+![part2_2]()
 
 After that, I will show the actual breakdown of the treemap, with the dark blue color on the "Drawing and Prints" department to represent it outweighed by any other categories.
-![]()
+![part2_3]()
 
-With an emphasis on the massive collections of drawings and prints, I will present the bar chart from the New York Times articles and elaborate more on the overly collected prints and drawings in MET compared with other museums in the USA. 
+With an emphasis on the massive collections of drawings and prints, I will present the bar charts from the New York Times articles and elaborate more on the overly collected prints and drawings in MET compared with other museums in the USA. 
+* Note: the charts below are from the New York Times, which I do not have access to data.
+> New York Times, Charts Created By Alicia DeSantis | Numbers are self-reported by individual institutions.
+![part2_4]()
+![part2_5]()
+In addition, I would also like to highlight the top five cultures that MET's collection represented and the difference between such cultural representations and its annual visitors.
+![part2_6]()
 
+> 2019 Annual Visitors Demographics Reported on the Website:
+| Visitors Demographics|Percentage |
+|------------|--------|
+|New York Local visitors|35%|
+|International visitors|28%|
+|New York's tristate area Visitors|16%|
+|Other US Domestic Visitors|21%|
 
-
+Lastly, I will explain the yearly accession breakdown of the TOP FIVE Cultures and highlight the unusual increase in Greek Art in 2011.
 
 
 
