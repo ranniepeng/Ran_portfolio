@@ -65,6 +65,8 @@ In general, I would like to target not only anyone interested in art and museum 
 
 In order to engage with the general public, I will provide sufficient background information and explain the linkage between the museum's mission and its collection to let them know the importance of understanding and the reasons I would like to do this analysis. To engage with the art managers, I would interact more with them in the later sections and call to action, as they are the people who are really making decisions about collection management and how to present better cultures and artwork to the museum's visitors. 
 
+## Finding Interviewees
+In order to have more valuable feedback that can be useful to help me reach the target audience. I would like to interview people both in the art and non-art fields to understand if my delivery of visualization and information is easy to understand and clear enough. Therefore, I talked with two of my friends and classmates, one of them has an art history background and has also been to the MET multiple times. Another person has a non-art background. The third interviewee is a person who is in a management role and has some art background and interests. I believe three of them can provide me with constructive feedback and answer my research questions to help me evaluate the overall story representation.
 
 ## Interview script
 > The goals from My research and the questions I intend to ask. 
@@ -80,7 +82,6 @@ In order to engage with the general public, I will provide sufficient background
 
 ## Interview findings
 > Detail findings from interviews, the general descriptions of interviewees are included in the parentheses 
-
 
 | Questions               | Interview 1 (Student, early 20s, art history background) | Interview 2 (Student, early 20s, non art background) | Interview 3 (Manager, mid 40s, some art background)|
 |-------------------------|---------------------|---------------------|---------------------|
@@ -101,7 +102,8 @@ Text here!
 | Clearer presentation on all top five departments' accession year trends.|I will consider putting all of them into a dashboard or include all the charts on a single page to represent better trends on the top five departments to the audiences.|
 | Unclear labelings of the pie chart | I will explore and try in Tableau to add the data labels and percentage breakdowns on the pie chart.|
 
-> ...include any final thoughts you have here. 
+# Final Thoughts
+
 
 
 
