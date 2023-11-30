@@ -9,8 +9,9 @@ I will start with some Facts about MET, to help the audience understand why I ch
 o	The largest art museum in the Americas
 o	In 2022, 3208832 visitors visited the MET
 o	The third most visited museum in the USA
+
 > The BIG-number visuals will be presented here:
-! [part2_1](part2_1.png)
+![part2_1](part2_1.png)
 
 Then I will quote the mission statement of the MET: "The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures to connect all people to creativity, knowledge, ideas, and one another." and explain the relationship and the reason why mission alignment of the collection is important (main aspects being Audience Engagement, Educational Value, Relevance to Society, and Long-Term Sustainability). Also, I will introduce the 19 department categories listed on the MET's website.
 
