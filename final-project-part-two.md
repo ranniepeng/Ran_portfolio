@@ -26,10 +26,12 @@ With an emphasis on the massive collections of drawings and prints, I will prese
 > New York Times, Charts Created By Alicia DeSantis | Numbers are self-reported by individual institutions.
 ![part2_4](part2_4.png)
 ![part2_5](part2_5.png)
+
 In addition, I would also like to highlight the top five cultures that MET's collection represented and the difference between such cultural representations and its annual visitors.
 ![part2_6](part2_6.png)
 
 > 2019 Annual Visitors Demographics Reported on the Website:
+
 | Visitors Demographics|Percentage |
 |------------|--------|
 |New York Local visitors|35%|
