@@ -1,9 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Link to [Shorthand Story](https://carnegiemellon.shorthandstories.com/beyond-the-exhibition-deep-into-the-mets-collection/index.html)
 
-Text here!
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
