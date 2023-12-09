@@ -26,10 +26,16 @@ The photos and images that are included in the shorthand are also the museums' e
 
 ## Finalized Visualizations (not including big numbers and icons) 
 >Treemap of the MET's departments breakdown.
-![]
+![v1](Treemap.pgn)
+
 >Drawing and Prints Accession Decreasing Trend.
+![v2](d_and_p.png)
+
 >Photographs Accession Decreasing Trend.
+![v3](photographs.png)
+
 >Top Five Departments Accession Dashboard over Time.
+
 ## References
 All external references and knowledge are cited in the shorthand story (in the reference section after the summary)
 In addition to those references, I've used [Unsplash](https://unsplash.com/) for all the photographs/images included in the shorthand story cited the icons that I used for creating the visuals (football fields and museum icons) from the [Noun Project](https://thenounproject.com/). 
