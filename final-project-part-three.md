@@ -16,15 +16,23 @@
 **Additional Changes Made:
 - Due to copyright considerations, I took two New York Times charts out from my final delivery. Instead, I mainly used the pop-out numbers from the original data and created an icon graphic visual to represent the alternative values of the storage spaces.
 - I also added an explanation of the data sources (API) that I mainly used for the project as well as elaborated more on the connection between the museum's collection and its mission achievement aiming to help the audience understand the concept and the importance of the issues that discussed in the story.
-- After listening to classmates' presentations, I added additional resources that are more targeted to provide open resources for internal art managers and administrators to explore more relevant topics. 
+- After listening to classmates' presentations, I added additional resources that are more targeted to provide open resources for internal art managers and administrators to explore more relevant topics.
+- For the accession trends visual, I added the filter of years, which I only included the last ten years to better reflect how the recent policy changes affected the number of items acquired by the museum.
 
 
 ## The audience
-Similar to the earlier understanding of the target audience in part II, the target audience groups are both external people who are interested in museums and internal arts managers. To appeal to both audience groups, I provided background information on the museum's mission and the rationale for the importance of collection and mission achievement in the overview section; I also included further resources and online open sources that arts managers might find helpful in the summary section. Similarly, to make the data more accessible for people with different expertise and experience, I edited with detailed labels and used less confusing graphics in the shorthand story.    
+Similar to the earlier understanding of the target audience in part II, the target audience groups are both external people who are interested in museums and internal arts managers. To appeal to both audience groups, I provided background information on the museum's mission and the rationale for the importance of collection and mission achievement in the overview section; I also included further resources and online open sources that arts managers might find helpful in the summary section. Similarly, to make the data more accessible for people with different expertise and experience, I edited with detailed labels and used less confusing graphics in the shorthand story.
+The photos and images that are included in the shorthand are also the museums' exterior or interior spaces to make the overall visual more relevant to the topic and consistent.
 
+## Finalized Visualizations (not including big numbers and icons) 
+>Treemap of the MET's departments breakdown.
+!
+>Drawing and Prints Accession Decreasing Trend.
+>Photographs Accession Decreasing Trend.
+>Top Five Departments Accession Dashboard over Time.
 ## References
 All external references and knowledge are cited in the shorthand story (in the reference section after the summary)
-In addition to those references, I've used Unsplash for all the photographs/images included in the shorthand story cited the icons that I used for creating the visuals (football fields and museum icons) from the Noun Project. 
+In addition to those references, I've used [Unsplash](https://unsplash.com/) for all the photographs/images included in the shorthand story cited the icons that I used for creating the visuals (football fields and museum icons) from the [Noun Project](https://thenounproject.com/). 
 
 # Final thoughts
 If I have more time, I would like to dive more into the financial documents and data resources of the MET to find some relevant data or information that can support my story. I think the essential questions about how museums should maintain their collection and modify related policies are ongoing topics that I will investigate more. Besides the consideration of mission achievement, and public and educational services, museums are also considering donors' relationships when deaccessioned items or accepted artwork gifts. It will be more realistic and interesting, in future iterations, that I can include the consideration of these factors.
