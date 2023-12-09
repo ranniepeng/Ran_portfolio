@@ -5,6 +5,7 @@
 
 # Changes made since Part II
 > Attempted Corrections collected from interviews and reflections in Part II
+
 | Research synthesis             | Anticipated changes for Part III       | Did I make this change?| Additional Notes|
 |--------------------------------|--------------------------------------------------|----------|---------------------------------|
 | The overall story and background info are easy to follow, but the order of the topic's breakdown needs to be rethought and integrated better.| I would likely follow the suggestion of the interviewees on the order of the story, connect the first and third sections first, and rethink if it is necessary to have the second section (top five cultures breakdown) in the presentation.|Yes.| Based on the storytelling and main focus, I took out the top five cultures breakdown visual to make the presentation less confusing. I rather focus more solely on the topics of investigating the actual department breakdowns and accession years of the MET's collection.
