@@ -26,7 +26,7 @@ The photos and images that are included in the shorthand are also the museums' e
 
 ## Finalized Visualizations (not including big numbers and icons) 
 >Treemap of the MET's departments breakdown.
-![v1](Treemap.pgn)
+![v1](Treemap.png)
 
 >Drawing and Prints Accession Decreasing Trend.
 ![v2](d_and_p.png)
