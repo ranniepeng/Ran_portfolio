@@ -55,4 +55,6 @@ In addition to those references, I've used [Unsplash](https://unsplash.com/) for
 # Final thoughts
 If I have more time, I would like to dive more into the financial documents and data resources of the MET to find some relevant data or information that can support my story. I think the essential questions about how museums should maintain their collection and modify related policies are ongoing topics that I will investigate more. Besides the consideration of mission achievement, and public and educational services, museums are also considering donors' relationships when deaccessioned items or accepted artwork gifts. It will be more realistic and interesting, in future iterations, that I can include the consideration of these factors.
 
+I noticed that in some points between part II and the final delivery, I wanted to make some "fancy" visuals that make the overall presentations complicated and hard to understand. Therefore, I realized that it is really necessary to keep reminding and asking myself: _1. what is the story you want to convey? 2. Can the audience really understand the visualizations? 3. Is the information needed to be illustrated by a data visual or just a big number or a sentence might be more efficient?_ 
+
 
